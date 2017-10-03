@@ -1,6 +1,6 @@
  WOULD YOU LIKE CONTRIBUTE?
  
- Please be in contract with me eitrher via email to   gonzalez.moises@gmail.com. 
+ Please be in contract with me eitrher via email to   gonzalez.moises@gmail.com or github.com/moises-gonzalez/. 
  Be sure to include: 
  
  How would you like contribue. 
@@ -10,6 +10,6 @@
  Keep in mind this project was created under Visual Studio - Windows Forms - C# and Command line.
  
   
- Be aware that any spamming or harmful behavior will be immediately reported.
+
  
  Thank you!!
