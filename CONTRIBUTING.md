@@ -1,7 +1,8 @@
  WOULD YOU LIKE CONTRIBUTE?
  
  Please be in contract with me eitrher via email to   gonzalez.moises@gmail.com or github.com/moises-gonzalez/. 
- Be sure to include: 
+
+Be sure to include: 
  
  How would you like contribue. 
  What would you like to see implemented (be realistic and concise).
